@@ -1,0 +1,18 @@
+.yellow{
+	background-color: #FFDF33;
+
+}
+
+.pink{
+	background-color: #FF3333;
+}
+.yellow, .pink{
+	height: 100px;
+	width: 200px;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: inline;
+    margin-right: 10px;
+
+
+}

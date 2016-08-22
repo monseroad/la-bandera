@@ -1,0 +1,11 @@
+.yellow{
+	background-color: #FFDF33;
+
+}
+
+.pink{
+	background-color: #FF3333;
+}
+.yellow, .pink{
+	height: 100px;
+}
